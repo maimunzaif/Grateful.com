@@ -73,6 +73,7 @@ if(isset($_GET['toggle'])){
                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdown">
                     <li><a class="dropdown-item" href="./index.php">Home</a></li>
                     <li><a class="dropdown-item" href="messages.php">Messages</a></li>
+                    <li><a class="dropdown-item" href="my-posts.php">My Post</a></li>
                     <li><a class="dropdown-item" href="new-post.php">Create New Post</a></li>
                     <li><a class="dropdown-item text-danger" href="includes/logout.php">Logout</a></li>
                 </ul>
